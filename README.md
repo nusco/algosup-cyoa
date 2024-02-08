@@ -26,7 +26,7 @@ Adventure awaits in the heart of an ancient jungle.
 
 ## Afternoon Teams
 
-### [Star Wars game (production title)](https://github.com/maxbernard3/CYOA/)
+### [Star Wars 3.5: A Droid's Hope](https://github.com/maxbernard3/CYOA/)
 
 Will you succeed in your mission to deliver the plans to the Rebel Alliance?
 
