@@ -34,7 +34,7 @@ Will you succeed in your mission to deliver the plans to the Rebel Alliance?
 
 The story of a young boy who stumbles into an open dishwasher.
 
-### [(Title TBD)](https://github.com/GuillaumeDespaux/cyos)
+### [(Lucnom's Castle)](https://github.com/GuillaumeDespaux/cyos)
 
 You hear a big explosion coming from the dungeon.
 
